@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 -->
 ### 🛠️ My Projects
 
-<a href="https://github.com/bilalktk/dukan" target="_blank"> <img alt="dukan" src="./dukan.svg" height="180" align="left" style="clear: left; margin-bottom: 20px;"> </a>
+<a href="https://github.com/bilalktk/dukan" target="_blank"> <img alt="dukan" src="./dukan.svg" height="190" align="left" style="clear: left; margin-bottom: 20px;"> </a>
 <a href="https://github.com/bilalktk/dukan_vendor_app" target="_blank"> <img alt="dukan_vendor_app" src="./dukan_vendor_app.svg"  height="200" align="left" style="clear: left; margin-bottom: 20px;"> </a>
