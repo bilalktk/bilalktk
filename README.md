@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🛠️ My Projects
-<a href="https://github.com/bilalktk/dukan" target="_blank"> <img alt="dukan" src="./dukan.svg" height="330" align="left"> </a>
-<a href="https://github.com/bilalktk/dukan_vendor_app" target="_blank"> <img alt="dukan_vendor_app" src="./dukan_vendor_app.svg"  height="300" align="left"> </a>
-<a href="https://github.com/bilalktk/dukan_web_admin" target="_blank"> <img alt="dukan_web_-admin" src="./dukan_web_admin.svg" height="300" align="left"> </a>
+
+<a href="https://github.com/bilalktk/dukan" target="_blank"> <img alt="dukan" src="./dukan.svg" height="200" align="left" style="clear: left; margin-bottom: 20px;"> </a>
+<a href="https://github.com/bilalktk/dukan_vendor_app" target="_blank"> <img alt="dukan_vendor_app" src="./dukan_vendor_app.svg"  height="200" align="left" style="clear: left; margin-bottom: 20px;"> </a>
